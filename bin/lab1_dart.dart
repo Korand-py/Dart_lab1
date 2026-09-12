@@ -1,4 +1,3 @@
-import 'package:lab1_dart/lab1_dart.dart' as lab1_dart;
 
 void main() {
   String name = 'Артём';
